@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537212552 source:c:\users\jesús kauil\documents\semestre 18-b\programación estructurada\unidad 1\ejercicio2\main.cpp
+	<iostream>
+	"ahorcado.h"
+	<cstdlib>
+
+1537213007 source:c:\users\jesús kauil\documents\semestre 18-b\programación estructurada\unidad 1\ejercicio2\src\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537211747 c:\users\jesús kauil\documents\semestre 18-b\programación estructurada\unidad 1\ejercicio2\include\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+

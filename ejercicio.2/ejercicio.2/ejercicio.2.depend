@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537590979 source:c:\users\dimas\desktop\itsva\3.-tercer semestre 2018\estructura de datos\ejercicio.2\ejercicio.2\main.cpp
+	<iostream>
+	"ahorcado.h"
+
+1537589251 c:\users\dimas\desktop\itsva\3.-tercer semestre 2018\estructura de datos\ejercicio.2\ejercicio.2\include\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537591156 source:c:\users\dimas\desktop\itsva\3.-tercer semestre 2018\estructura de datos\ejercicio.2\ejercicio.2\src\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+

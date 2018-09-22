@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1537583407 source:c:\users\jesús kauil\documents\semestre 18-b\programación estructurada\unidad 1\ejercicio_1\main.cpp
+	<iostream>
+	"operaciones.h"
+	<stdlib.h>
+	<string>
+
+1537583440 c:\users\jesús kauil\documents\semestre 18-b\programación estructurada\unidad 1\ejercicio_1\include\operaciones.h
+
+1537582724 source:c:\users\jesús kauil\documents\semestre 18-b\programación estructurada\unidad 1\ejercicio_1\src\operaciones.cpp
+	"operaciones.h"
+	<iostream>
+	<process.h>
+	<stdlib.h>
+
+1537587371 source:c:\users\dimas\desktop\itsva\3.-tercer semestre 2018\estructura de datos\ejercicio_1\ejercicio_1\src\operaciones.cpp
+	"operaciones.h"
+	<iostream>
+	<process.h>
+	<stdlib.h>
+
+1537583440 c:\users\dimas\desktop\itsva\3.-tercer semestre 2018\estructura de datos\ejercicio_1\ejercicio_1\include\operaciones.h
+
+1537588923 source:c:\users\dimas\desktop\itsva\3.-tercer semestre 2018\estructura de datos\ejercicio_1\ejercicio_1\main.cpp
+	<iostream>
+	"operaciones.h"
+	<stdlib.h>
+	<string>
+	<stdlib.h>
+
